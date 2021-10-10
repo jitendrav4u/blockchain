@@ -2,3 +2,6 @@
 Start
 Let it be
 Blockchain can be defined as a chain of blocks that contains information. The technique is intended to timestamp digital documents so that it’s not possible to backdate them or temper them. The purpose of blockchain is to solve the double records problem without the need of a central server.
+
+Understanding SHA256 – Hash
+A block also has a hash. A can be understood as a fingerprint which is unique to each block. It identifies a block and all of its contents, and it’s always unique, just like a fingerprint. So once a block is created, any change inside the block will cause the hash to change.
